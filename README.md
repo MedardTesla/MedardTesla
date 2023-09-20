@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data science**
 
-- 💬 Ask me about **Machine learning**
+- 💬 Ask me about **Machine learning and data analysis**
 
 - 📫 How to reach me **minlekibyendouboan@gmail.com**
 
