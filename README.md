@@ -80,37 +80,7 @@ Data Engineer | Data Analyst | Machine Learning Enthusiast from Togo 🇹🇬
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
 </p>
 
----
 
-## 📌 Featured Projects (Data Engineer Oriented)
-
-### 🔹 1. Automated Sales Data Pipeline
-**Tech:** Python · PostgreSQL · Pandas · Docker  
-- Built an **ETL pipeline** to ingest raw sales data
-- Cleaned & transformed data into analytics-ready tables
-- Automated daily loads with scripts
-
-➡️ *Repo coming / in progress*
-
----
-
-### 🔹 2. Data Warehouse & Analytics Project
-**Tech:** SQL · PostgreSQL · Python  
-- Designed a **star schema**
-- Implemented fact & dimension tables
-- Wrote advanced SQL queries for KPIs
-
-➡️ *Repo coming / in progress*
-
----
-
-### 🔹 3. End-to-End Data Engineering Mini Project
-**Tech:** Python · Airflow · Docker · AWS (S3)  
-- Data ingestion → transformation → storage
-- Orchestrated pipelines using **Airflow DAGs**
-- Stored processed data in cloud storage
-
-➡️ *Repo coming / in progress*
 
 ---
 
